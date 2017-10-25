@@ -6,7 +6,7 @@ Template
 .. image:: https://cdn.cultofmac.com/wp-content/uploads/2015/10/samsung-building-robot-army-to-replace-human-factory-workers-image-cultofandroidcomwp-contentuploads201510Terminator-2-5-780x585.jpg
 
 The Template is a basic arrangement for guides to be used for all manner of robots.
-  * `Template User Documentation <http://www.burymewithmymoney.com>`_
+  * `Template User Documentation <https://documenttemplate.readthedocs.io>`_
   * `Template Product Page <http://www.interbotix.com>`_
 
 Turtlebot2i
