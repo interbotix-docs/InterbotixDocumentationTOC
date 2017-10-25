@@ -16,3 +16,4 @@ Interbotix End-User Guides
    robotarms.rst
    mobileplatforms.rst
    controllers.rst
+   software.rst
