@@ -6,9 +6,6 @@
 Interbotix End-User Guides
 ==========================
 
-.. raw:: html
-   :url: https://documenttemplate.readthedocs.io/en/latest/
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
